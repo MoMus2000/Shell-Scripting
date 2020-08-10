@@ -2,14 +2,15 @@
 
 
 say -v Victoria "Look, I was gonna go easy on you and not to hurt your feelings But I'm only" 
-say -v Victoria "going to get this one chance." -r 250
+say -v Victoria "going to get this one chance." -r 200
 say -v Victoria "Something's wrong, I can feel it" -r 150
-say "Just a feeling I've got, like something's about to happen, but I don't know what If that means, what I think it means, we're in trouble, big trouble, And if he is as bananas as you say, I'm not taking any chances" -r 400 
-say "You were just what the doctor ordered" -r 300
-say "I'm beginning to feel like a Rap God, Rap God" -r 300
+say "Just a feeling I've got, like something's about to happen, but I don't know what If that means, what I think it means" -r 280 
+Say "we're in trouble, big trouble, And if he is as bananas as you say, I'm not taking any chances" -r 300 
+say "You were just what the doctor ordered" -r 320
+say "I'm beginning to feel like a Rap God, Rap God" -r 360
 say "All my people from the front to the back nod, back nod
 Now who thinks their arms are long enough to slap box, slap box?
-They said I rap like a robot, so call me Rapbot" -r 300
+They said I rap like a robot, so call me Rapbot" -r 380
 say "But for me to rap like a computer must be in my genes" -r 400
 say "I got a laptop in my back pocket
 My pen'll go off when I half-cock it
@@ -33,7 +34,7 @@ For the wack while I'm masterfully constructing this masterpiece as" -r 550
 say "I'm beginning to feel like a Rap God, Rap God
 All my people from the front to the back nod, back nod
 Now who thinks their arms are long enough to slap box, slap box?
-Let me show you maintaining this shit ain't that hard, that hard" -r 360
+Let me show you maintaining this shit ain't that hard, that hard" -r 320
 say "Everybody want the key and the secret to rap immortality like I have got
 Well, to be truthful the blueprint's simply rage and youthful exuberance
 Everybody loves to root for a nuisance" -r 360
@@ -58,7 +59,7 @@ You witnessing a mass occur
 Like you watching a church gathering take place looking boy
 Oy vey, that boy's gay, that's all they say looking boy
 You get a thumbs up, pat on the back
-And a "way to go" from your label everyday looking boy" -r 360
+And a "way to go" from your label everyday looking boy" -r 420
 say "Hey, looking boy, what you say looking boy?
 I got a "hell yeah" from Dre looking boy
 I'mma work for everything I have
@@ -69,5 +70,5 @@ say "'Cause I'm beginning to feel like a Rap God, Rap God
 All my people from the front to the back nod, back nod
 The way I'm racing around the track, call me Nascar, Nascar
 Dale Earnhardt of the trailer park, the White Trash God
-Kneel before General Zod this planet's Krypton, no Asgard, Asgard" -r 400
+Kneel before General Zod this planet's Krypton, no Asgard, Asgard" -r 360
 say "Thanks for watching"
